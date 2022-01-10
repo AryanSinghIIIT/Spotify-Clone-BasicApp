@@ -10,12 +10,12 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Bachpan Ka Pyaar - Badshah x Sahdev", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Bach Ke Rehna (Red Notice)", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Bachpan Ka Pyaar-Badshah", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Bach Ke Rehna(Red Notice)", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "Bad Boy X Bad Girl", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Feel Hai  by Bali, Badshah", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Fly  by Badshah", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName: "Ghana Kasoota  by Raftaar", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "Ghana Kasoota by Raftaar", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
     {songName: "Jingle Bell  by Hommie Dilliwala", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName: "Jugnu  by Badshah", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Rider  by DIVINE", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
