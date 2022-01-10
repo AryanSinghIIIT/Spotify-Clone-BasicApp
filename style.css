@@ -83,6 +83,9 @@ nav ul li{
     cursor: pointer;
 }
 
+#masterSongName{
+  font-size: 100%;
+}
 .songItemContainer{
     margin-top: 74px;
 }
@@ -131,6 +134,7 @@ nav ul li{
         margin-top: 45px; 
     }
    
+
   }
 
   /* By Aryan Singh */
