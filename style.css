@@ -131,6 +131,10 @@ nav ul li{
         left: 5vw;
 
     }
+    .songItem{
+        height: 52px;
+        width: 100%;
+    }
 
   }
 
