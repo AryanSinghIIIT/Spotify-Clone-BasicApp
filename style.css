@@ -88,7 +88,8 @@ nav ul li{
 }
 
 .songItem{
-    height: 50px;
+    height: 100%;
+    width: 100%;
     display: flex;
     background-color: white;
     
@@ -131,10 +132,7 @@ nav ul li{
         left: 5vw;
 
     }
-    .songItem{
-        height: 52px;
-        width: 100%;
-    }
+   
 
   }
 
